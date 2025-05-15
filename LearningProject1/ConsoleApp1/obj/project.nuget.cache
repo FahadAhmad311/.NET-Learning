@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7X/JeuOh4TU=",
+  "success": false,
+  "projectFilePath": "D:\\.NET\\LearningProject1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\.NET\\LearningProject1\\LocalPackages' doesn't exist.",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\LocalNuGetPackages' doesn't exist.",
+      "libraryId": "Newtonsoft.Json"
+    }
+  ]
+}
