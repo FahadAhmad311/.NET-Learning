@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Serialization2.props" />
+</Project>
