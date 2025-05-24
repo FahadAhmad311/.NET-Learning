@@ -1,0 +1,15 @@
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\bin\Debug\net9.0\SerializationSecurity.exe
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\bin\Debug\net9.0\SerializationSecurity.deps.json
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\bin\Debug\net9.0\SerializationSecurity.runtimeconfig.json
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\bin\Debug\net9.0\SerializationSecurity.dll
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\bin\Debug\net9.0\SerializationSecurity.pdb
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.AssemblyInfoInputs.cache
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.AssemblyInfo.cs
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.csproj.CoreCompileInputs.cache
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.sourcelink.json
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.dll
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\refint\SerializationSecurity.dll
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.pdb
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\SerializationSecurity.genruntimeconfig.cache
+D:\.NET\Securing Serialization and Deserialization process\SerializationSecurity\obj\Debug\net9.0\ref\SerializationSecurity.dll
